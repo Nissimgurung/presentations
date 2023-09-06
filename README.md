@@ -13,7 +13,7 @@ Topics will be allocated on a first-come-first-served basis. Each person is expe
 | Lecture | Topic | Resources | Presenter |
 |---------|-------|-----------|-----------|
 | 2023-09-12 (Tuesday)  | R Markdown | [a](https://rmarkdown.rstudio.com/), [b](https://bookdown.org/yihui/rmarkdown/) | |
-|                       | GitHub Desktop (or other GUI) | [a](https://desktop.github.com/), [b](https://www.sourcetreeapp.com/), [c](https://www.gitkraken.com/), [d](https://github.atom.io/), [e]
+|                       | GitHub Desktop (or other GUI) | [a](https://desktop.github.com/), [b](https://www.sourcetreeapp.com/), [c](https://www.gitkraken.com/), [d](https://github.atom.io/)
 | 2023-09-14 (Thursday) | Tidy data | [a](https://tidyr.tidyverse.org/articles/tidy-data.html), [b](https://vita.had.co.nz/papers/tidy-data.pdf)| |
 |                       | tinyverse | [a](http://www.tinyverse.org/) | |
 | 2023-09-19 (Tuesday)  | APIs           | [a](https://zapier.com/learn/apis/) | |
